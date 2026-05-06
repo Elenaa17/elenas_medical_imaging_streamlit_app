@@ -2,7 +2,7 @@ streamlit
 numpy
 pillow
 pydicom
-opencv-python
+opencv-python-headless
 scipy
 matplotlib
 scikit-image
